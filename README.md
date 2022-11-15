@@ -18,10 +18,10 @@
 <img align="center" alt="Gabriel_Node" height="50" width"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 
   <h1>Status</h1>
-<div>
-<a href="https://github.com/Mazzotti1">
-<img width="42%"src="https://github-readme-stats.vercel.app/api/?username=Mazzotti1&show_icons=true&theme=cobalt&include_all_comits=true&count_private=true"/>
-<a href="https://github.com/Mazzotti1">
-<img width="32%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazzotti1&layout=Compact&bg_color=#00000)](https://github.com/anuraghazra/github-readme-stats"</div>
+  <div>
+<img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=Mazzotti1&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+   <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazzotti1&layout=compact&langs_count=7&theme=blue-green"/>
+   
+ </div>
   
   
