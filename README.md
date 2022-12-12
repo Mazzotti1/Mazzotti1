@@ -4,6 +4,23 @@
 - 🔭 Atualmente criando projetos front-end
 - 🌱 Estou estudando sobre back-end
 - 😵 Quero aprender mais sobre desenvolvimento mobile!
+- 💻 [Meu portifólio pessoal](https://gabrielmazzotti.vercel.app/)
+
+<h2>Minhas redes</h2>
+ <div>
+   <a href="https://www.linkedin.com/in/gabriel-mazzotti/">
+     <img width="35px" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png" />
+   </a>
+   <a href="https://www.instagram.com/omazzotti_/">
+     <img width="35px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />
+   </a>
+   <a href="https://api.whatsapp.com/send?phone=5551994447857">
+     <img width="35px" src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" />
+   </a>
+   <a href="https://gabrielmazzotti.vercel.app/">
+     <img width="35px" src="https://img.icons8.com/fluency/48/000000/laptop.png" />
+   </a>
+ </div>
 
 </div>
 <h1>Minhas atuais ferramentas!</h1>
