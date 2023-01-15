@@ -37,7 +37,7 @@
   <h1>Status</h1>
   <div>
 <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=Mazzotti1&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-   <img height="200px" width="600px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazzotti1&layout=compact&langs_count=7&theme=default"/>
+   <img height="200px" width="600px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazzotti1&&langs_count=7&theme=default"/>
    
  </div>
   
