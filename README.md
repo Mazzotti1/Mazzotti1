@@ -3,7 +3,6 @@
 
 - 🔭 Atualmente criando projetos front-end
 - 🌱 Estou estudando sobre back-end
-- 😵 Quero aprender mais sobre desenvolvimento mobile!
 - 💻 [Meu portifólio pessoal](https://gabrielmazzotti.vercel.app/)
 
 <h2>Minhas redes</h2>
