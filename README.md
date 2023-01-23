@@ -33,5 +33,6 @@
 <img align="center" alt="Gabriel_Mongo" height="50" width"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="center" alt="Gabriel_Node" height="50" width"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 
- 
+ <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=Mazzotti1&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+   <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazzotti1&layout=compact&langs_count=7&theme=chartreuse-dark"/>
   
