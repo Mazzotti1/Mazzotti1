@@ -2,7 +2,7 @@
 <h1> Olá! Eu me chamo Gabriel Mazzotti</h1>
 
 - 🔭 Atualmente criando projetos front-end
-- 🌱 Estou estudando sobre back-end
+- 🌱 Estou estudando sobre back-end e mobile
 - 💻 [Meu portifólio pessoal](https://gabrielmazzotti.vercel.app/)
 
 <h2>Minhas redes</h2>
