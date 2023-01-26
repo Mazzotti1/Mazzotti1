@@ -29,13 +29,20 @@
 <h1>Minhas atuais ferramentas!</h1>
 <div style="display: inline_block"><br>
 <img align="center" alt="Gabriel_Html" height="50" width"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 <img align="center" alt="Gabriel_Js" height="50" width"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 <img align="center" alt="Gabriel_Ts" height="50" width"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 <img align="center" alt="Gabriel_React" height="50" width"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 <img align="center" alt="Gabriel_TWC" height="50" width"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 <img align="center" alt="Gabriel_Fire" height="50" width"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 <img align="center" alt="Gabriel_Mongo" height="50" width"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img align="center" alt="Gabriel_Node" height="50" width"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <img align="center" alt="Gabriel_Node" height="50" width"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
  <div>
  <img  height="250px" width="410px" src="https://github-readme-stats.vercel.app/api?username=Mazzotti1&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
