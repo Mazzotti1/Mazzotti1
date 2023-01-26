@@ -6,18 +6,19 @@
 - 💻 [Meu portifólio pessoal](https://gabrielmazzotti.vercel.app/)
 
 <h2>Minhas redes</h2>
- <div>
-   <a href="https://www.linkedin.com/in/gabriel-mazzotti/">
-     <img width="35px" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png" />
-   </a>
+
+<a href="https://www.linkedin.com/in/gabriel-mazzotti/"><img width="32px" src="https://i.imgur.com/AcHYLap.png" /></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="https://www.instagram.com/omazzotti_/">
-     <img width="35px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />
+     <img width="35px" src="https://i.imgur.com/6BYHKps.png" />
    </a>
+     &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="https://api.whatsapp.com/send?phone=5551994447857">
-     <img width="35px" src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" />
+     <img width="35px" src="https://i.imgur.com/D7Ur34p.png" />
    </a>
+     &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="https://gabrielmazzotti.vercel.app/">
-     <img width="35px" src="https://img.icons8.com/fluency/48/000000/laptop.png" />
+     <img width="35px" src="https://i.imgur.com/kIWcPAo.png" />
    </a>
  </div>
 
@@ -37,6 +38,6 @@
 <img align="center" alt="Gabriel_Node" height="50" width"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
  <div>
- <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=Mazzotti1&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-   <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazzotti1&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+ <img  height="250px" width="450px" src="https://github-readme-stats.vercel.app/api?username=Mazzotti1&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+   <img height="250px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazzotti1&layout=compact&langs_count=7&theme=chartreuse-dark"/>
   </div>
