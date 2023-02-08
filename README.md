@@ -17,7 +17,7 @@
      <img width="35px" src="https://i.imgur.com/D7Ur34p.png" />
    </a>
      &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="https://gabrielmazzotti.vercel.app/">
+   <a href="https://portifolio.gabrielmazzotti.com.br/">
      <img width="35px" src="https://i.imgur.com/kIWcPAo.png" />
    </a>
  </div>
