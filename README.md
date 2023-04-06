@@ -45,6 +45,6 @@
   <img align="center" alt="Gabriel_Node" height="50" width"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
  <div>
- <img  height="250px" width="410px" src="https://github-readme-stats.vercel.app/api?username=Mazzotti1&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-   <img height="250px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazzotti1&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-  </div>
+   <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=Mazzotti1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=66cc00&icon_color=66cc00&text_color=c9d1d9&bg_color=0d1117"/>
+   <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazzotti1&layout=compact&langs_count=7&hide_border=true&title_color=fff&icon_color=66cc00&text_color=fff&bg_color=0d1117"/>
+ </div>
