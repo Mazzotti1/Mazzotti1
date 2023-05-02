@@ -44,8 +44,4 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <img align="center" alt="Gabriel_Node" height="50" width"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
- 
-  <div>
-   <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=mazzotti1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=66CC00&icon_color=66cc00&text_color=c9d1d9&bg_color=0d1127"/>
-   <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazzotti1&layout=compact&langs_count=7&hide_border=true&title_color=FFF&icon_color=66cc00&text_color=FFF&bg_color=0d1127"/>
- </div>
+
