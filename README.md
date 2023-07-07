@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente criando projetos mobile
 - 🌱 Estou estudando sobre back-end e mobile
-- 💻 [Meu portifólio pessoal](https://portifolio.gabrielmazzotti.com.br/)
+- 💻 [Meu portfólio pessoal](https://portifolio.gabrielmazzotti.com.br/)
 
 <h2>Minhas redes</h2>
 
