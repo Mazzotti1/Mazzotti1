@@ -43,7 +43,10 @@
 <img align="center" alt="Gabriel_Mongo" height="50" width"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <img align="center" alt="Gabriel_Node" height="50" width"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+   &#8287;&#8287;&#8287;&#8287;&#8287;
    <img align="center" alt="Gabriel_Kotlin" height="50" width"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+   <img align="center" alt="Gabriel_Flutter" height="50" width"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 </div>
 
    <div>
