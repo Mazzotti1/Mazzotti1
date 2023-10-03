@@ -1,5 +1,5 @@
 
-<h1> Olá! Eu me chamo Gabriel Mazzotti</h1>
+<h1> Hi! My name is Gabriel Mazzotti!</h1>
 
 - 🔭 Mobile Developer
 - 🌱 Computer Science
