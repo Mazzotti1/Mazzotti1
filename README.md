@@ -1,11 +1,11 @@
 
 <h1> Olá! Eu me chamo Gabriel Mazzotti</h1>
 
-- 🔭 Atualmente criando projetos mobile
-- 🌱 Estou estudando sobre back-end e mobile
-- 💻 [Meu portfólio pessoal](https://portifolio.gabrielmazzotti.com.br/)
+- 🔭 Mobile Developer
+- 🌱 Computer Science
+- 💻 [My Portfolio](https://portifolio.gabrielmazzotti.com.br/)
 
-<h2>Minhas redes</h2>
+<h2>Networks</h2>
 
 <a href="https://www.linkedin.com/in/gabriel-mazzotti/"><img width="32px" src="https://i.imgur.com/AcHYLap.png" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -26,7 +26,7 @@
            
           
 <div>
-<h1>Minhas atuais ferramentas!</h1>
+<h1>My Tools!</h1>
 <div style="display: inline_block"><br>
 <img align="center" alt="Gabriel_Html" height="50" width"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   &#8287;&#8287;&#8287;&#8287;&#8287;
