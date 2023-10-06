@@ -51,6 +51,6 @@
 
    <div>
    <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=mazzotti1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=65cc00&icon_color=63cC00&text_color=C8d1d7&bg_color=080808"/>
-   <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazzotti1&layout=compact&langs_count=7&hide_border=true&title_color=FfF&icon_color=66cC00&text_color=FFf&bg_color=090808"/>
+   <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazzotti1&layout=compact&langs_count=7&hide_border=true&title_color=ffF&icon_color=66cc00&text_color=fFf&bg_color=090908"/>
  </div>
 
