@@ -50,7 +50,7 @@
 </div>
 
    <div>
-   <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=mazzotti1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=64CC00&icon_color=64cC00&text_color=C8d1D7&bg_color=090909"/>
+   <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=mazzotti1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=64cC00&icon_color=64cc00&text_color=c8d1D7&bg_color=080909"/>
    <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazzotti1&layout=compact&langs_count=7&hide_border=true&title_color=FFf&icon_color=66cC00&text_color=ffF&bg_color=080909"/>
  </div>
 
