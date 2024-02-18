@@ -36,8 +36,6 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <img align="center" alt="Gabriel_React" height="50" width"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   &#8287;&#8287;&#8287;&#8287;&#8287;
-<img align="center" alt="Gabriel_TWC" height="50" width"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-  &#8287;&#8287;&#8287;&#8287;&#8287;
 <img align="center" alt="Gabriel_Fire" height="50" width"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <img align="center" alt="Gabriel_Mongo" height="50" width"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
