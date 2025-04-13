@@ -8,14 +8,6 @@
 <h2>Networks</h2>
 
 <a href="https://www.linkedin.com/in/gabriel-mazzotti/"><img width="32px" src="https://i.imgur.com/AcHYLap.png" /></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="https://www.instagram.com/omazzotti_/">
-     <img width="35px" src="https://i.imgur.com/6BYHKps.png" />
-   </a>
-     &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="https://api.whatsapp.com/send?phone=5551994447857">
-     <img width="35px" src="https://i.imgur.com/D7Ur34p.png" />
-   </a>
      &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="https://portifolio.gabrielmazzotti.com.br/">
      <img width="35px" src="https://i.imgur.com/kIWcPAo.png" />
