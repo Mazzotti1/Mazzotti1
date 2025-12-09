@@ -18,7 +18,8 @@
 </div>
 
    <div>
-   <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=mazzotti1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=64CF00&icon_color=64Cc00&text_color=C8D1D7&bg_color=070809"/>
-   <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazzotti1&layout=compact&langs_count=7&hide_border=true&title_color=FFf&icon_color=66CC00&text_color=fFF&bg_color=070909"/>
+       <img height="180em" width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mazzotti1&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true">
+
+   <img height="180em" width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mazzotti1&layout=compact&theme=tokyonight">
  </div>
 
